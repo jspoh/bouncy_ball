@@ -12,5 +12,3 @@ This program has a ball that can:
 - Move around
 - Different friction multipliers on the ground and air
 - Acceleration when you hold down the arrow key[left/right only]
-
-Actually pretty proud of this :D
