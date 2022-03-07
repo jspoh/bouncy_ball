@@ -2,7 +2,7 @@
 ball that bounces, controlled with arrow keys
 
 
-First program I created with the use of classes. Credits to github.ldinghan for helping me lol i was so confused about how classes work.
+First program I created with the use of classes. Credits to github.com/ldinghan for helping me lol i was so confused about how classes work.
 
 This was kind of confusing to make at first because of my poor knowledge of classes but it became clearer as I was finishing it.
 
