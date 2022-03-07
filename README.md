@@ -1,5 +1,5 @@
 # bouncy_ball
-ball that bounces, controlled with arrow keys
+Ball with realistic physics properties made without the use of a physics engine.
 
 
 First program I created with the use of classes. Credits to github.com/ldinghan for helping me lol i was so confused about how classes work.
