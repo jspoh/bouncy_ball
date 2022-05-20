@@ -17,7 +17,4 @@ Controls:
 - Move left   [Arrow LEFT]
 - Move right  [Arrow RIGHT]
 
-<video width="320" height="240" controls>
-  <source src="boing.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+Video of this program is available in the lib folder
